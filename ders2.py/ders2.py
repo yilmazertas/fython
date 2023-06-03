@@ -315,15 +315,15 @@
 
 
 #1 fonksiyon ve değişken isimleri yaptıkları işle ilgili olarak isimlendirmeli.Başka developerler isimlendirmeyi okuduğunda fonksiyonun ya da değişkenin ne iş yaptığın anlayabilmeli
-email_list=["a@b.com","b@c.com","c@d.com"]
-def user_create(*params):
-    result=email_list.index(email):
-    if result >=0:
+# email_list=["a@b.com","b@c.com","c@d.com"]
+# def user_create(*params):
+#     result=email_list.index(email):
+#     if result >=0:
 
-    return
+#     return
 
-name=input("lütfen isminizi giriniz: ")
-password=input("lütfen şifrenizi giriniz: ")
-email=input("lütfen mail adresinizi giriniz: ")
-user=user_create(name,password,email)
-create_
+# name=input("lütfen isminizi giriniz: ")
+# password=input("lütfen şifrenizi giriniz: ")
+# email=input("lütfen mail adresinizi giriniz: ")
+# user=user_create(name,password,email)
+# create_

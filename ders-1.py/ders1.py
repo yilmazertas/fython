@@ -221,7 +221,7 @@
 # cars["car2"].pop("model") #dictionary den bir veriryi silme yöntemi
 # print(cars)
 
-customers ={"customer1":"John", "customer2":"Sam","customer3":"Felix"}
+# customers ={"customer1":"John", "customer2":"Sam","customer3":"Felix"}
 #customers["customer4"]="safiye"
 #print(customers)
 #customers.pop("customer2")
@@ -230,15 +230,15 @@ customers ={"customer1":"John", "customer2":"Sam","customer3":"Felix"}
 #print(customers.values())
 #print(customers.get("customer1"))
 #print(customers.items())
-customers.update({"customer5":"adams"})
-print(customers)
+# customers.update({"customer5":"adams"})
+# print(customers)
 
 
 ##########  SET METHODS  ####### 
-set1={"a","b","c","d","e","f","g","a","b","b"}
-set2={"a","b","c","d","e","t"}  
+# set1={"a","b","c","d","e","f","g","a","b","b"}
+# set2={"a","b","c","d","e","t"}  
 #print(set1-set2)  iki küme arasındaki farklı elemanlar
-print(set1.union(set2)) #iki kümenin bileşimni verir
-set2.remove("a")
-print(set2.difference(set1))
+# print(set1.union(set2)) #iki kümenin bileşimni verir
+# set2.remove("a")
+# print(set2.difference(set1))
 # print(set2)
